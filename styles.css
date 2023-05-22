@@ -1,0 +1,63 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: #040404;
+  }
+  
+  h1 {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; /* Replace with your desired font */
+     color: #f8f6f6;
+    text-align: center;
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+    background-color: #da7aa6;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav li a {
+    display: block;
+    color: #151111;
+    text-decoration: none;
+    padding: 10px;
+  }
+ 
+  .image {
+    max-width:200px;
+    height: auto;
+    margin: 10px;
+    float:left;
+    border: 1px solid black;
+    text-align: center;
+    background-color: #fff;
+  }
+  
+  .image img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+ 
+  
+  .button {
+    margin-top: 10px;
+    display:inline-block;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #1d1b1c;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+
+  
+ 
